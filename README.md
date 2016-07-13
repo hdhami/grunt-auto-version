@@ -147,7 +147,7 @@ grunt-auto-version is open source. Help us by submitting merge requests, forking
 
 # Contact Us
 
-Get in touch with us with me suggestions, thoughts and queries at: hsd.1989@gmail.com
+Get in touch with me to share suggestions, thoughts and queries at: hsd.1989@gmail.com
 
 # License
 
