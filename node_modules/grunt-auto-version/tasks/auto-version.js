@@ -9,7 +9,7 @@
 'use strict';
 
 module.exports = function(grunt) {
-    require('./../node_modules/grunt-config-merge')(grunt);
+    require('grunt-config-merge')(grunt);
     require('./../components/mergeTasks')(grunt);
     grunt.registerMultiTask('create', "task to create new branch", function() {
         // Merge task-specific and/or target-specific options with these defaults.
