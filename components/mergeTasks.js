@@ -177,7 +177,7 @@ module.exports = function(grunt) {
                     return 'git merge --no-commit --no-ff ' + branchName;
                 },
                 options: {
-                    stdout: false,
+                    stdout: true,
                     callback: function(err, stdout, stderr, cb) {
                         grunt.task.run('shell:merge');
                         cb();
