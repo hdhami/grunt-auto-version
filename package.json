@@ -26,6 +26,9 @@
   "scripts": {
     "test": "grunt test"
   },
+  "publishConfig": { 
+    "tag": "1.12.0"
+  },
   "dependencies": {
     "grunt-config-merge": "^1.2.0",
     "grunt-shell": "^1.1.2",
