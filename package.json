@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hdhami/grunt-auto-version.git#v1.11.0"
+    "url": "https://github.com/hdhami/grunt-auto-version.git"
   },
   "bugs": {
     "url": "https://github.com/hdhami/grunt-auto-version/blob/master/issues"
