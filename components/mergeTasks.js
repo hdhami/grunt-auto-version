@@ -40,6 +40,17 @@ module.exports = function(grunt) {
                     }
                 }
             },
+            recreateFileTable:{
+                command: function(branchName) { //branchName is branch name which is get through command line
+                    return 'grunt create --recreate=true';
+                },
+                options: {
+                    stdout: false,
+                    callback: function(err, stdout, stderr, cb) {
+                        cb(); 
+                    }
+                }
+            },
             createFileTable: {//task for creating file table
 
                 command: '',
