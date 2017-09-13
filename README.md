@@ -151,9 +151,9 @@ Get in touch with me to share suggestions, thoughts and queries at: engg@naukri.
 
 # License
 
-Please see [LICENSE.md] for details.
+Please see [LICENSE] for details.
 
    [Getting Started]: <http://gruntjs.com/getting-started>
    [Grunt]: <http://gruntjs.com/>
    [GruntFile]: <http://gruntjs.com/sample-gruntfile>
-   [LICENSE.md]: <https://github.com/naukri-engineering/grunt-auto-version/blob/master/LICENSE.md>
+   [LICENSE]: <https://github.com/naukri-engineering/grunt-auto-version/blob/master/LICENSE>
