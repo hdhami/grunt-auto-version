@@ -1,6 +1,6 @@
 /*
  * grunt-auto-version
- * developed by Naukri FED
+ * developed by harish dhami
  *
  * Copyright (c) 2017.
  * Licensed under the MIT license.
