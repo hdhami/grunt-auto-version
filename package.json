@@ -2,22 +2,22 @@
   "name": "grunt-auto-version",
   "description": "this grunt plugin automates versioning of modified files and backs-up the files as well.This is integrated with Git and quite helpful for the versioning of static resources which needs to versioned to remove caching on CDN servers.",
   "version": "3.0.0",
-  "homepage": "https://github.com/hdhami",
+  "homepage": "https://github.com/naukri-engineering",
   "author": {
-    "name": "Harish Singh Dhami",
-    "email": "hsd.1989@gmail.com"
+    "name": "Naukri FED",
+    "email": "engg@naukri.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hdhami/grunt-auto-version.git"
+    "url": "https://github.com/naukri-engineering/grunt-auto-version.git"
   },
   "bugs": {
-    "url": "https://github.com/hdhami/grunt-auto-version/blob/master/issues"
+    "url": "https://github.com/naukri-engineering/grunt-auto-version/blob/master/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/hdhami/grunt-auto-version/blob/master/LICENSE.md"
+      "url": "https://github.com/naukri-engineering/grunt-auto-version/blob/master/LICENSE.md"
     }
   ],
   "engines": {

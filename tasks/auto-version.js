@@ -1,8 +1,8 @@
 /*
  * grunt-auto-version
- * developed by Harish Dhami
+ * developed by Naukri FED
  *
- * Copyright (c) 2016.
+ * Copyright (c) 2017.
  * Licensed under the MIT license.
  */
 
